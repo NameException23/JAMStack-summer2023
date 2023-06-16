@@ -1,8 +1,6 @@
 ---
-layout: layout.html
 pageTitle: Apples
-navTitle: Pictures Test
-tags: page
+navTitle: Pictures Try 3
 singleImage: /img/apples.png
 pageClass: pictures
 images:

@@ -9,6 +9,6 @@ navTitle: Home
 
 {% for page in collections.page %}
 
-  <h2><a href="{{ page.url }}">{{ page.data.pageTitle }}</a></h2>
+  <h2><a href="{{ page.url }}">{{ page.data.pageTitle | upcase }}</a></h2>
   <em>{{ page.date | date: "%Y-%m-%d" }}</em>
 {% endfor %}
