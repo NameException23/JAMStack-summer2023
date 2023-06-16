@@ -1,7 +1,7 @@
 ---
 layout: layout.html
 pageTitle: Apples
-navTitle: Pictures
+navTitle: Pictures Test
 tags: page
 singleImage: /img/apples.png
 pageClass: pictures
